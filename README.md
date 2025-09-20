@@ -20,3 +20,15 @@ The site is fully responsive and interactive, highlighting my journey as a Full-
 - **Code Highlighting**: Using PrismJS for syntax highlighting.
 
 ## 📂 Folder Structure
+
+docs/
+├─ about/
+├─ projects/
+├─ social-url/
+└─ ...
+src/
+├─ css/
+├─ components/
+└─ ...
+docusaurus.config.js
+sidebars.js
